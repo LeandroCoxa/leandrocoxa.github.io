@@ -155,10 +155,8 @@ Contato
 
 GitHub: LeandroCoxa
 
-Email: seu-email@exemplo.com
+Email: academico.leandro2004@gmail.com
 
-LinkedIn: em breve
-
-“A engenharia transforma ideias em realidade através do conhecimento, da criatividade e da tecnologia.”
+LinkedIn: www.linkedin.com/in/leandrocoxa
 
 Leandro Coxa • Engenharia de Controle e Automação
